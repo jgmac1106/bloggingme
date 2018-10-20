@@ -1,7 +1,7 @@
 ## outline
-### Intro
+### Intro (500 words)
 * Vignette
-  * Arguing
+  * Arguing/Fake News
   * Notification overload
   * Algorithim lonliness
 * Problem
@@ -9,10 +9,10 @@
   * We never saw the web as a literacy problem
 * Solution
   * Create a space for experiencing the web from your own website
-### Theoretical Perspective
-### Two Tales of One Web
-  * DS106
-  * IndieWeb
-### Discussion
-### Conclusion
+### Theoretical Perspective (2000)
+### Two Tales of One Web (2250)
+  * DS106 (1000)
+  * IndieWeb (1000)
+### Discussion (1000)
+### Conclusion(250)
   * callback to Vignette
