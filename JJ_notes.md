@@ -24,7 +24,9 @@ Hopefully some of this is useful, in which case I'm happy to flesh it out
 * *Also worth noting the difficulty of IndieWeb for non-technical people, and strategies for addressing this.  Building this literacy works toward the scientific literacy Dewey associates with "The Great Community" (Dewey, 1927)*
 
 ## Theoretical perspective
-* I'll need to read more of what you're thinking here. I typically draw from STS (infrastructures, human and nonhuman relationships, affordances, etc.) and political economy.  This could contribute to a big picture discussion of power imbalances with platforms, which adds rationale for owning one's own communication tools.  Might be out of scope for this paper to spend too much time on that?
+* I'll need to read more of what you're thinking here. I typically draw from STS (infrastructures, human and nonhuman relationships, affordances, etc.) and political economy.  This could contribute to a big picture discussion of power imbalances with platforms, which adds rationale for owning one's own communication tools.
+* Related: Introna (2014) has a good paper about how humans and nonhumans co-constitute one another. Uses turnitin to illustrate agential realism.  I think this is a useful lens for arguing the importance of giving students the right tools.
+* **I think these directions might be out of scope for this article, and may not necessarily fit with your theoretical perspective**
 
 
 # References
@@ -36,6 +38,7 @@ Eslami, M., Rickman, A., Vaccaro, K., Aleyasen, A., Vuong, A., Karahalios, K., â
 
 IndieWeb.org. (2018). IndieWeb. Retrieved October 20, 2018, from https://indieweb.org/
 
+Introna, L. D. (2014). Towards a Post-human Intra-actional Account of Sociomaterial Agency (and Morality). In P. Kroes & P.-P. Verbeek (Eds.), The Moral Status of Technical Artefacts (Vol. 17, pp. 31â€“53). Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-007-7914-3_3
 
 Pariser, E. (2012). The filter bubble: how the new personalized Web is changing what we read and how we think. Retrieved from http://www.myilibrary.com?id=708797
 
