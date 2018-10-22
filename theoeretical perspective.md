@@ -39,5 +39,5 @@ This sort of streamlining exemplifies what Franklin (2004) has called _prescript
 -	Acknowledging that, not only do these systems influence students, but that students can shape them back, requires seeing them as matters of concern rather than matters of fact (Latour, 2004)
   -	i.e. as structures that are continually being redefined and can be influenced (are worthy of concern), rather than static, immutable (matters of fact)
 
-o	However, must also acknowledge varying levels of prescriptiveness, momentum, etc, which influence the capacity of individuals to shape systems. << This connects back to the power issues.
+- 	However, must also acknowledge varying levels of prescriptiveness, momentum, etc, which influence the capacity of individuals to shape systems. << This connects back to the power issues.
 -	By encouraging the use of a personal website, over which students can exert considerable agency, we increase their potential to shape the internet more broadly.
