@@ -1,5 +1,7 @@
 ## APA please
 
+Bowker, G. C., & Star, S. L. (2000). Sorting things out: Classification and its consequences. Cambridge, Mass.: The MIT Press.
+
 Cohen, N. S. (2013). Commodifying free labor online: Social media, audiences, and advertising. In M. P. McAllister & E. West (Eds.), The Routledge Companion to Advertising and Promotional Culture (pp. 177–191). Routledge.
 
 Eslami, M., Rickman, A., Vaccaro, K., Aleyasen, A., Vuong, A., Karahalios, K., … Sandvig, C. (2015). “I always assumed that I wasn’t really that close to [her]”: Reasoning about Invisible Algorithms in News Feeds. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems - CHI ’15 (pp. 153–162). Seoul, Republic of Korea: ACM Press. https://doi.org/10.1145/2702123.2702556
@@ -7,6 +9,8 @@ Eslami, M., Rickman, A., Vaccaro, K., Aleyasen, A., Vuong, A., Karahalios, K., �
 Franklin, U. M. (2004). The real world of technology (Rev. ed). Toronto, Ont. : Berkeley, CA: House of Anansi Press ; Distributed in the United States by Publishers Group West.
 
 Helmond, A. (2015). The platformization of the Web: Making Web data platform ready. Social Media + Society, 1(2), 1–11. https://doi.org/10.1177/2056305115603080
+
+Hughes, T. P. (1987). The evolution of large technological systems. In W. E. Bijker, T. P. Hughes, & T. J. Pinch (Eds.), The social construction of technological systems: New directions in the sociology and history of technology (pp. 51–82). Cambridge, Mass.: MIT Press.
 
 Latour, B. (2004). Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern. Critical Inquiry, 30(2), 225–248. https://doi.org/10.1086/421123
 
@@ -18,6 +22,12 @@ O’Reilly, T. (2005, September 30). What is Web 2.0. Retrieved June 9, 2015, fr
 
 Pariser, E. (2012). The filter bubble: how the new personalized Web is changing what we read and how we think. Retrieved from http://www.myilibrary.com?id=708797
 
+Pinch, T. J., & Bijker, W. E. (1987). The social construction of facts and artifacts: Or how the sociology of science and the sociology of technology might benefit each other. In T. P. Hughes, W. E. Bijker, & T. J. Pinch (Eds.), The social constructions of technological systems: New directions in the sociology and history of technology (pp. 17–50). Cambridge, Mass.: MIT Press.
+
+Sandvig, C. (2013). The Internet as infrastructure. In W. H. Dutton (Ed.), The Oxford handbook of Internet studies. Oxford: Oxford University Press.
+
 Shirky, C. (2008). Here comes everybody: The power of organizing without organizations. New York: Penguin.
 
 Shirky, C. (2010). Cognitive surplus: How technology makes consumers into collaborators. New York: Penguin.
+
+Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), 377–391.

@@ -23,7 +23,7 @@ Community matters in the construction knowledge and therefore in building  the w
 
 We take a research activist perspective that engaing in democratic educaton requires us to utlitize holositic technolgoies to build community in the classroom. More importantly we believe moving our classrooms on to the web and into the open, will allow learners to share and reflect on how they develop knowledge.
 
-The strongest of learning occurs around a shared goal (Lave & Wagner), and often the instutions of education may interfere with learning (Illich). Therefore we seek to study networked spaces where communities gather around a shared goal as community of practice.  These affinity spaces (Gee) often emerge organically and the learners who often fail in formal settings thrive.
+The strongest of learning occurs around a shared goal (Lave & Wagner), and often the instutions of education may interfere with learning (Illich). Therefore we seek to study networked spaces where communities gather around a shared goal as community of practice.  **Additionally, legitimacy in such communities is achieved in part by adopting a common naturalization of the space's tools and artefacts, i.e. implicitly using those tools for similar purposes and with similar methods as fellow community-members (Bowker & Star, 2000). For this reason, holistic tools that afford critical interpretation and decision-making can contribute to communities that embody those values.** These affinity spaces (Gee) often emerge organically and the learners who often fail in formal settings thrive.
 
 ### Knowledge
 Dewey (1934) noted that thinking occurs in "forked road situations" where we are presented with problems and must work through proposed alternatives. Dewey argued that through training we can transform learners’ natural capacities to project future outcomes into the habits of critical inquiry. To this end DFewey stressed the importance of reflection and on the connection of art and meaning. 
@@ -37,9 +37,16 @@ Therefore we belive the best uses of technology for learning require greater use
 
 ## Humans and sociotechnical systems
 
-Literacy and langauge have always intertwined with society. Halliday's exploration of language (1978) requires us to acknowledge how the web gets shaped by  sociotechincal systems (Huges). Just as every tool for ltiercy before it the web gets  by composed of material technologies, technical specifications, organizations, and finally individuals. As a sociotechnical system this envokes issues of power (Focault).
+Literacy and langauge have always intertwined with society. Halliday's exploration of language (1978) requires us to acknowledge how the web gets shaped by  sociotechincal systems (Huges).
 
-Sociotechnical systems require co-creation. All the components in a system, including the people, influence each other(Latour, 2008). In prescriptive technolgies the control and power of the user gets restricted while th commercial needs of platform providers get highlighted. We do not recognize the power students have to shape out system (Latour, 2004).
+... acknowledge that the Web is not simply a technical system distinct from the social contexts into which it is deployed. Instead, just like every tool for literacy before it, the Web is a sociotechnical infrastructure whose components include its users, builders, maintainers, and other stakeholders (Hughes, 1987).
+
+As a sociotechnical system this envokes issues of power (Focault).
+
+
+When functioning smoothly, such infrastructures tend to fade into the background, obfuscating their constituent parts, historical trajectory, and the fierce debates that have shaped their influence upon the social order (Star, 1999, Sandvig, 2013). Prescriptive designs enhance the seamlessness of such systems, and in so doing reduce opportunities for contesting or choosing their future direction. From the perspective of users who are discouraged from considering how the design might be different, such technologies achieve a sense of _closure_ (Pinch & Bijker, 1987).
+
+Latour's (2004) distinction between _matters of fact_ and _matters of concern_ can help consider this issue. Latour identifies _matters of fact_ as those features of the world we perceive as stable and beyond our control, and _matters of concern_ as things that exist in flux and demand critique and engagement to shape their futures. When technologies present limited options for their use, they are likely to be taken as matters of fact, since they appear beyond the influence of most individuals.  Forms of engagement with technology that simultaneously promote critical inquiry and technical fluency can encourage turning the relationship between technology and society into a _matter of concern_ (e.g. Ratto, 2001).
 
 For the past thirty years we have looked at the sociotechincal system of the web as a technology issue and not a literacy issue (Leu, 2015). This has lead to educators  utlizing presecriptive, rather than holistic technologies to manage the web. This in turn further reduces the ability of students to read, write, and participate on the web as they do not touch the material langauge, HTML, used on the web.
 
