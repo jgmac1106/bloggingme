@@ -58,6 +58,16 @@ We learn in these socistechnical systems as much from the space as we do from an
 
 We utilized Gees's affinity spaces as a  lens to investigate learnign on the web from  a Deweyian perspective. Gee outline 11 princiles of affinitiy spaces for our analysis we operationalizes these theoretical into four overarching themes: goals, organizational structure, content creation and knowledge brokering.
 
+## Ackowleding our Bias and Participation
+
+Given the theoretical underpinnings that we must help to build a better web and our belief that the spaces of learning matter more than indiviudal students and educators we both actively participate in these communities. Furthermore as community engaged scholars we conduct research as praxis. We seek to understand how things could be, rather than are they are or where they are. 
+
+Therefore readers must recognize that our description of the pedagogies that emerge from these communities could be impacted by our involvement or close personal relationships. We do not try to account for this bias in our analysis but rather embrace it in conclusions we draw from the data.
+
+The data are as independent from our bias as possible. This is a preliminary case study designed to identify variables of interest that can be used in follow up studies. To reduce bias in the data collection and analysis we utlized multiple sources and then triangulated this with community checks. 
+
+
+
 
 
 
