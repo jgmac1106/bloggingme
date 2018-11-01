@@ -40,6 +40,16 @@ The course does has specific learning objectives yet the assessment is also comm
 
 The students have a specific website where they can nominate each other. DS106 also has a community supported and built wall of fame. Mainly though assessment is done through self reflection and sharing posts about what you did and why you did it. This creates a "circuit of reflective thought" (Gee, 2013) that supports both the individual and the community endeavors and therby helps grow #DS106 as a space.
 
+## Organizational Structure
+
+DS206 is organized around college campuses. This does provide monetary support for instructors. However the open participants usually stick to the daily creates or may choose a themed class like "Noir" or "Westerns: to join even if these are hosted by different universities.
+
+These local nodes create knowledge centers in the network. Alan Levine describes the growth as fractal:
+>but they are not all the same- different courses, different education levels, and each one not taking the course as a single product, but reframing it for their own needs. These are not just carbon copies of ds106, but mutants, lovel mutants, and in some sense fractal, especially around the core of the assignment bank.
+
+The different participants and classes would network together through aggregated RSS feeds, using the #ds106 hashtag on Twitter and a Google+ community.
+
+
 ### Membership Pathways and Barriers
 
 While the community strives around a common endeavor their is a disntinction between those students who take the class as part of their college class. You see this in the sharp drop off of participation. This #MandatedTweet (Kist, 2008) phenonmenon occurs when students complete tasks. Such a powerimpance is also seen in the analysis of links.
