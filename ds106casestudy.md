@@ -70,8 +70,11 @@ Students while no developing deep connections on either social media or blogs st
 Still the use of of new blogging paradigms and the pedagogical focus towards openness may not be welcoming to all students. The DS106 community noticed this trend and began to offer a week zero, which was a sign up and help week before class. Many on the ground iterations offered drop in help. 
 
 #### Leadership Pathways and Barriers
+The pathways to leadership for open participants reolve around creating and engaging in narrative creation. Major offshoots like DS106 radio, and share narratives all launched by open particpants. The class has also ran without as an experiment with no formal instructor.
 
-This spawned offshoot communities such as #netnarr https://sites.google.com/view/netnarr-mediajumping/home 
+DS106 often spawned offshoot communities such as #netnarr https://sites.google.com/view/netnarr-mediajumping/home and the Conneced Leaning MOOC, originally sponsored by the National Writing Project. Many of the participants in these communities overlap and are fouhd in other online courses such as Rhizomatic Learning #MoocMooc, and others.
+
+DS106 
 
 ## Content Creation
 
