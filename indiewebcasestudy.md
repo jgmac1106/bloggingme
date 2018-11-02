@@ -11,6 +11,12 @@
 
 > Now I’m not a Web Developer, but I think I’d like to try my hand at it. I don’t need to centralize all of my data but I would like an online presence that I control. Something that I could constantly work on. Something that’s never finished. Much like the web itself
 
+> Have a home, express myself, internet citizenship (Slatkin, 2012)
+
+The first principle https://indieweb.org/wiki/index.php?title=principles&oldid=1378
+current 
+> Eat your own dogfood. Whatever you build should be for yourself. If you aren't using it, why should anybody else? More importantly, build the indieweb around your needs. Others can do likewise.
+
 ### Membership and Barriers
 People attracted to the community through podast episodes. Examples: Ben and Kevin on Twing. Rosemary Orchard heard an episode of Mac power users and tried micro.blog. Other users come to the IndieWeb by discovering about it in ther RSS feeds.
 
