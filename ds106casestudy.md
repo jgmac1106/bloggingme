@@ -72,11 +72,19 @@ Still the use of of new blogging paradigms and the pedagogical focus towards ope
 #### Leadership Pathways and Barriers
 The pathways to leadership for open participants reolve around creating and engaging in narrative creation. Major offshoots like DS106 radio, and share narratives all launched by open particpants. The class has also ran without as an experiment with no formal instructor.
 
-DS106 often spawned offshoot communities such as #netnarr https://sites.google.com/view/netnarr-mediajumping/home and the Conneced Leaning MOOC, originally sponsored by the National Writing Project. Many of the participants in these communities overlap and are fouhd in other online courses such as Rhizomatic Learning #MoocMooc, and others.
+DS106 often spawned offshoot communities such as #netnarr https://sites.google.com/view/netnarr-mediajumping/home and the Conneced Leaning MOOC, originally sponsored by the National Writing Project. Many of the participants in these communities overlap and are found in other online courses such as Rhizomatic Learning #MoocMooc, and others.
 
-DS106 
+Thia rhizomatic learnign and leadersip (Cormier, 2015) grew out of early learnign around a podcast started in 2005 called #edtechtalk and then conintued in open courses since Connectivism Course in 2008. The principles of #ds106 and the leadership that supports the communites all travel through these sociotechincal systems. 
 
 ## Content Creation
 
+Gee defines affintiy spaces as production based places to learn. The content created in affinity spaces is encourages at every level. The content isself then shapes the spaces through a process of welcome iteration. This space then influences the content participants make. Everything is maleable.
+
+The evidence gathered from DS106 illustrates the importance of making as part of an ethos of learning. As a story telling class content creation became a central tenant. The announcement for the 2017 version of the course has a mashuo of different spy movie songs ans scnes including mission impossible James Bond, and Austin Powers.
+
+Currently there 800 assignments in the media and the daily creates get published. Top date over 17,00 posts have been collected by more than 800 people. The top five daily create participants have submitted over 1,200 posts this year.
+
 ## Knowledge Brokering
+
+Gee notes that Affinity spaces encourage tacit knowledge, These ideas and ways of being that are not easily expressed are found in networks  driven by holistic technologies such as the #ds106 class. 
 
