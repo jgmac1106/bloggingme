@@ -18,7 +18,7 @@ At the same time the larger DS106 community began to flourish and launch seperat
 
 ## Shared Goals as a Community
 
-#DS106Radio4Life and #Ds1064Life these call to actions permeated many of the artifacts collected as part of this study, and you can hear in the open participants voices how much they take it to heart. http://www.edutalk.info/the-ds106-good-spell-episode-38/ (Johnston & Funes, n.d.). A call many open participants answer to a class that college professors teach all over the world.
+\#DS106Radio4Life and #Ds1064Life these call to actions permeated many of the artifacts collected as part of this study, and you can hear in the open participants voices how much they take it to heart. http://www.edutalk.info/the-ds106-good-spell-episode-38/ (Johnston & Funes, n.d.). A call many open participants answer to a class that college professors teach all over the world.
 
 DS106 is the shared endeavor. Many strive to build and support he community while supporting each other as digital remix artists.
 
