@@ -1,13 +1,16 @@
 ## APA please
 
+Barrett, R. (2017). Indie Map. Retrieved November 2, 2018, from http://www.indiemap.org/
+
 Bowker, G. C., & Star, S. L. (2000). Sorting things out: Classification and its consequences. Cambridge, Mass.: The MIT Press.
 
 Çelik, T. (2014, June). Why we need the IndieWeb. Presented at the Personal Democracy Forum 2014. Retrieved from https://www.youtube.com/watch?v=HNmKO7Gr4TE
 
-
 Cohen, N. S. (2013). Commodifying free labor online: Social media, audiences, and advertising. In M. P. McAllister & E. West (Eds.), The Routledge Companion to Advertising and Promotional Culture (pp. 177–191). Routledge.
 
 Eslami, M., Rickman, A., Vaccaro, K., Aleyasen, A., Vuong, A., Karahalios, K., … Sandvig, C. (2015). “I always assumed that I wasn’t really that close to [her]”: Reasoning about Invisible Algorithms in News Feeds. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems - CHI ’15 (pp. 153–162). Seoul, Republic of Korea: ACM Press. https://doi.org/10.1145/2702123.2702556
+
+Events - IndieWeb. (2018). Retrieved November 2, 2018, from https://indieweb.org/Events#Earlier
 
 Finley, K. (2013, August 14). Meet the Hackers Who Want to Jailbreak the Internet. Wired. Retrieved from https://www.wired.com/2013/08/indie-web/
 
@@ -18,6 +21,9 @@ Gillmor, D. (2014, April 25). Welcome to the Indie Web Movement. Slate. Retrieve
 Helmond, A. (2015). The platformization of the Web: Making Web data platform ready. Social Media + Society, 1(2), 1–11. https://doi.org/10.1177/2056305115603080
 
 Hughes, T. P. (1987). The evolution of large technological systems. In W. E. Bijker, T. P. Hughes, & T. J. Pinch (Eds.), The social construction of technological systems: New directions in the sociology and history of technology (pp. 51–82). Cambridge, Mass.: MIT Press.
+
+IndieWebCamp. (2011, June 24). Retrieved November 2, 2018, from http://calagator.org/events/1250459571
+
 
 Ingram, M. (2014a, September 3). Don’t like Facebook owning and controlling your content? Use tools that support the open Web. Retrieved November 2, 2018, from https://gigaom.com/2014/09/03/dont-like-facebook-owning-and-controlling-your-content-use-tools-that-support-the-open-web/
 

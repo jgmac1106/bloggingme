@@ -4,17 +4,18 @@ IndieWeb was conceived after  co-founders Aaron Parecki and Tantek Çelik attend
 
 
 
-
 2010 Federeated web summit too much talk not enough build" (Case, 2014) "klet's write this spec, and start this mailing list, and what about this idea"
 "The whole point is you implement something and you show it to the community. Whoever has the best story doesn't win, the best implementation wins"
 "You can't make the perfect spec. That is a Platonic ideal"
 
+Çelike has noted that most participants at the summit were focused on “what could be possible [in the future]” rather than “what was possible [now]” (Çelik, 2014). In contrast, IndieWeb emphasizes actually making websites and tools in the present.
+
 
 
 The following year, they worked with Amber Case and Crystal Beasley to organize the first IndieWeb Camp event in Portland, Oregon.  The event was focused on discussing and building tools to own one's own data on a personal website "rather than posting content on many third-party silos of data" (“IndieWebCamp,” 2011).
+After the event, a decision was made not to keep in touch via an email list, but instead to use the Web.  Çelik (2014) explained this choice, "You're not going to email your way into building a website. So we said we don't need it, we're not going to use email. We're going to use the web itself to build the web that we want."
 
-
-
+IndieWeb has grown significantly in the intervening years. Between 2011 and 2018, IndieWeb's community has held over 600 events in cities across North America, Europe, and other Western countries (“Events - IndieWeb,” n.d.). In 2017, an member of IndieWeb's community named Ryan Barret identified over 2300 of the most active IndieWeb sites around the world (Barrett, 2017), and thousands of people have posted online to IndieWeb's wiki and chatrooms. 
 
 
 ## Shared Community Values
@@ -36,7 +37,6 @@ Early IndieWeb events had formal requirements that participants had to be creato
 Something to be said about people turning to the IndieWeb when dissatisfied with other movements. IndieWebCamp started after disatisfaction with W3c,. A post by Jeena and Tents: https://jeena.net/indieweb
 >  Sadly they took a wrong turn so I had to jump of and find something else which would get me in the direction I wanted, which is owning the data I post to the internet. I am trying to archive it not because it is easy, but because it is hard.
 
-After the first IndieWeb Camp, a decision was made not to create an email list, but rather to keep in touch using the Web.  Çelik (2014) explained this choice, "You're not going to email your way into building a website. So we said we don't need it, we're not going to use email. We're going to use the web itself to build the web that we want."
 
 No mailing lists, whomever talks the best shoiuld not win
 ### Leadership and Barriers
