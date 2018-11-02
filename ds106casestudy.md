@@ -69,7 +69,7 @@ Students while no developing deep connections on either social media or blogs st
 
 Still the use of of new blogging paradigms and the pedagogical focus towards openness may not be welcoming to all students. The DS106 community noticed this trend and began to offer a week zero, which was a sign up and help week before class. Many on the ground iterations offered drop in help. 
 
-#### Leadership Pathways and Barriers
+### Leadership Pathways and Barriers
 The pathways to leadership for open participants reolve around creating and engaging in narrative creation. Major offshoots like DS106 radio, and share narratives all launched by open particpants. The class has also ran without as an experiment with no formal instructor.
 
 DS106 often spawned offshoot communities such as #netnarr https://sites.google.com/view/netnarr-mediajumping/home and the Conneced Leaning MOOC, originally sponsored by the National Writing Project. Many of the participants in these communities overlap and are found in other online courses such as Rhizomatic Learning #MoocMooc, and others.
@@ -84,7 +84,25 @@ The evidence gathered from DS106 illustrates the importance of making as part of
 
 Currently there 800 assignments in the media and the daily creates get published. Top date over 17,00 posts have been collected by more than 800 people. The top five daily create participants have submitted over 1,200 posts this year.
 
+In fact as the the final step of data reduction was occuring during this study new content was being created from the artifacts I was collecting while participants, organizers, and other pedoagogy scholars discussed definitions and patterns.
+
+(Insert @dogtrax comic)
+
 ## Knowledge Brokering
 
-Gee notes that Affinity spaces encourage tacit knowledge, These ideas and ways of being that are not easily expressed are found in networks  driven by holistic technologies such as the #ds106 class. 
+Gee makes multiple distinctions of different types of knowledge inhis definition of Affinity Spaces. Most importantl Gee notes that Affinity spaces encourage tacit knowledge. These ideas and ways of being that are not easily expressed are found in networks  driven by holistic technologies such as the #ds106 class.
+
+Affinity Spaces also value individual and distributd knowledge. This is where the networked technologies augment our ability to think and solve problems. This occurs throughout DS106 where people contribute to community tutorials in Google+ communitites.
+
+Extensive, or broad knowledge and intensive, or specialized knowlede are also encouraged in affinity spaces, and like the other types of knowledge that Gee identifies we find examples of each. However we found so much overlap when trying to categorize learning or events into knowledge.
+
+Istead we chose to focus our case studies on Knowledge Brokering. In these spaces knowledge is not learned by memorizing sets of discrete skills or rote practicing of video editing. Instead participants in spaces like #ds106 exchange strategies through a process of knowledge brokering. 
+
+Brokering, from a socilogist persepective is a service one individual can provide to another or in the case of affinity spaces to the endeavor writ large. In terms of knowledge brokering we build off of Ching, Santo, Hoadley, & Pepler (2015) work into learning brokering in youth spaces.  Brokering provides access to ideas and servign wider needs needs (Burt, 2005; Stovel & Shaw, 2012). Using this lens on affinity spaces we see how this knowledge exists in the space and endeavor of the community. 
+
+In #ds106 we see an excahnge of techniques driven mainly through remix. Many of the projectts, jmuch like the class itself get remixed. Through this act tacit cultural knowledge on the value of creation, ownership, and attribution are spread. Extensive knowledge of blogging techniques grow. Then many, may specialize in technical skills, video production, photogrpahy. 
+
+A key tenant of #ds106 which supports knowledge brokering is the publication of reflection post explaining how different projects were made. 
+
+
 
