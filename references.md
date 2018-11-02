@@ -24,6 +24,7 @@ Hughes, T. P. (1987). The evolution of large technological systems. In W. E. Bij
 
 IndieWebCamp. (2011, June 24). Retrieved November 2, 2018, from http://calagator.org/events/1250459571
 
+IndieWeb.org. (2018). IndieWeb. Retrieved October 20, 2018, from https://indieweb.org/
 
 Ingram, M. (2014a, September 3). Don’t like Facebook owning and controlling your content? Use tools that support the open Web. Retrieved November 2, 2018, from https://gigaom.com/2014/09/03/dont-like-facebook-owning-and-controlling-your-content-use-tools-that-support-the-open-web/
 

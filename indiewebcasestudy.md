@@ -1,10 +1,13 @@
 ## Introduction
+
+IndieWeb was founded in 2011 and describes itself as “a people-focused alternative to the ‘corporate web’” (IndieWeb.org, 2016b). IndieWeb’s contributors build and use tools to help web creators own their own content by hosting it on their own Web domain. On its homepage, three reasons are presented for using the IndieWeb instead of centralized platforms: “Your content is yours”; “You are better connected”; and “You are in control” (IndieWeb.org, 2016b). To achieve these goals, IndieWeb's community publishes web content to personal websites, rather than relying on corporate platforms. IndieWeb sites are configured to communicate replies, likes, and other social media interactions directly to other sites, without a platform acting as intermediary. In recognition that many of their friends and family use social media platforms, IndieWeb sites also syndicate posts to various platforms, and then aggregating responses from across those sites back to the original post.
+
 ## History
 IndieWeb was conceived after  co-founders Aaron Parecki and Tantek Çelik attended the 2010 Federated Social Web Summit.
 
 
 
-2010 Federeated web summit too much talk not enough build" (Case, 2014) "klet's write this spec, and start this mailing list, and what about this idea"
+2010 Federated web summit too much talk not enough build" (Case, 2014) "klet's write this spec, and start this mailing list, and what about this idea"
 "The whole point is you implement something and you show it to the community. Whoever has the best story doesn't win, the best implementation wins"
 "You can't make the perfect spec. That is a Platonic ideal"
 
@@ -15,7 +18,7 @@ IndieWeb was conceived after  co-founders Aaron Parecki and Tantek Çelik attend
 The following year, they worked with Amber Case and Crystal Beasley to organize the first IndieWeb Camp event in Portland, Oregon.  The event was focused on discussing and building tools to own one's own data on a personal website "rather than posting content on many third-party silos of data" (“IndieWebCamp,” 2011).
 After the event, a decision was made not to keep in touch via an email list, but instead to use the Web.  Çelik (2014) explained this choice, "You're not going to email your way into building a website. So we said we don't need it, we're not going to use email. We're going to use the web itself to build the web that we want."
 
-IndieWeb has grown significantly in the intervening years. Between 2011 and 2018, IndieWeb's community has held over 600 events in cities across North America, Europe, and other Western countries (“Events - IndieWeb,” n.d.). In 2017, an member of IndieWeb's community named Ryan Barret identified over 2300 of the most active IndieWeb sites around the world (Barrett, 2017), and thousands of people have posted online to IndieWeb's wiki and chatrooms.
+IndieWeb has grown significantly in the intervening years. Between 2011 and 2018, IndieWeb's community has held over 600 events in cities across North America, Europe, and other Western countries (“Events - IndieWeb,” 2018). In 2017, an member of IndieWeb's community named Ryan Barret identified over 2300 of the most active IndieWeb sites around the world (Barrett, 2017), and thousands of people have posted online to IndieWeb's wiki and chatrooms.
 
 
 ## Shared Community Values
