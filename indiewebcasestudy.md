@@ -3,17 +3,13 @@
 IndieWeb was founded in 2011 and describes itself as “a people-focused alternative to the ‘corporate web’” (IndieWeb.org, 2018). IndieWeb’s contributors build and use tools to help web creators own their own content by hosting it on their own Web domain. On its homepage, three reasons are presented for using the IndieWeb instead of centralized platforms: “Your content is yours”; “You are better connected”; and “You are in control” (IndieWeb.org, 2018). To achieve these goals, IndieWeb's community publishes web content to personal websites, rather than relying on corporate platforms. IndieWeb sites are configured to communicate replies, likes, and other social media interactions directly to other sites, without a platform acting as intermediary. In recognition that many of their friends and family use social media platforms, IndieWeb sites also syndicate posts to various platforms, and then aggregating responses from across those sites back to the original post.
 
 ## History
+
 IndieWeb was conceived after  co-founders Aaron Parecki and Tantek Çelik attended the 2010 Federated Social Web Summit.
 
-
-
 2010 Federated web summit too much talk not enough build" (Case, 2014) "klet's write this spec, and start this mailing list, and what about this idea"
-"The whole point is you implement something and you show it to the community. Whoever has the best story doesn't win, the best implementation wins"
-"You can't make the perfect spec. That is a Platonic ideal"
+"The whole point is you implement something and you show it to the community. Whoever has the best story doesn't win, the best implementation wins, case continued, "you can't make the perfect spec. That is a Platonic ideal"
 
-Çelik has noted that most participants at the summit were focused on “what could be possible [in the future]” rather than “what was possible [now]” (Çelik, 2014). In contrast, IndieWeb emphasizes actually making websites and tools in the present.
-
-
+Çelik has noted that most participants at the summit were focused on “what could be possible [in the future]” rather than “what was possible [now]” (Çelik, 2014). In contrast, IndieWeb emphasizes actually making websites and tools in the present. This idea of buiding for your self that is also towards the community endeavor is a hallmark of Gee's affinity spaces.
 
 The following year, they worked with Amber Case and Crystal Beasley to organize the first IndieWeb Camp event in Portland, Oregon.  The event was focused on discussing and building tools to own one's own data on a personal website "rather than posting content on many third-party silos of data" (“IndieWebCamp,” 2011).
 After the event, a decision was made not to keep in touch via an email list, but instead to use the Web.  Çelik (2014) explained this choice, "You're not going to email your way into building a website. So we said we don't need it, we're not going to use email. We're going to use the web itself to build the web that we want."
