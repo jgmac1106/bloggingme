@@ -17,21 +17,23 @@ IndieWeb has grown significantly in the intervening years. Between 2011 and 2018
 
 ## Shared Goals as Community
 
-The idea of showing before talking became a central organizing tenant of IndieWebCamp. 
-"Community is a huge aspect. It is a big differentiator. We are all working on a shared goal but we are all doing it by having our wesbites talk together and work on the problem together." Parecki then goes on to describe how people build tools for themselves but these in turn provide hosting solutions that help others.
+Overall having your own place on the web became the rallying cry of the IndieWeb. As one member notes, "Have a home, express myself, and internet citizenship" (Slatkin, 2012).The IndieWeb wiki list your content is yours, you are better connected and you are in control as the main beneifts of turning to the people-focused alternative to the "corporate web". All of the socio technical systems that have emerged in the community support this goal. This means the tools and and learning spaces to enable everyone'e websites to talk together. 
+
+The idea of showing before talking became a central organizing tenant of IndieWebCamp. In fact the first principle of 
 
 >This is why I think it is exciting that the IndieWeb inherently follows this method. Work small, demo, integrate into the whole what works, and you get this emergent structure out of that that’s resilient, with things evolving at the edges out of people exploring new projects. (Case, 2014).
 
 > Now I’m not a Web Developer, but I think I’d like to try my hand at it. I don’t need to centralize all of my data but I would like an online presence that I control. Something that I could constantly work on. Something that’s never finished. Much like the web itself
 
-> Have a home, express myself, internet citizenship (Slatkin, 2012)
+
 
 
 
 ### Membership and Barriers
-People attracted to the community through podast episodes. Examples: Ben and Kevin on Twing. Rosemary Orchard heard an episode of Mac power users and tried micro.blog. Other users come to the IndieWeb by discovering about it in ther RSS feeds.
 
-In 2013-2014, IndieWeb received significant press coverage in Wired (Finley, 2013), Slate (Gillmor, 2014), and Gigaom (Ingram, 2014a, 2014b).
+While not "allowing the best story to win" does provide for grater inclusion of voices early on #IndieWeb had a strict requirement that you had to have a domain or website to attend an event. 
+
+In 2013-2014, IndieWeb received significant press coverage in Wired (Finley, 2013), Slate (Gillmor, 2014), and Gigaom (Ingram, 2014a, 2014b). This lead to an expansion
 
 Early IndieWeb events had formal requirements that participants had to be creators, "someone that actually creates on the web with your own website" (Çelik, 2014). Those requirements have been relaxed, but having a personal website remains a de facto requirement for most participation.
 
