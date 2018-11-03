@@ -11,6 +11,6 @@
 ### Writing oneself into the world
 ### Space not Students Variable of Interest
 ## Implications for Society
-## Lessons for Open Source
-## Importance of Sustaining Web
+### Lessons for Open Source
+### Importance of Sustaining Web
 
