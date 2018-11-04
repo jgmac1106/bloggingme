@@ -10,10 +10,23 @@ The same good be said about writing yourself on the web as Dewey says for the ma
 The focus on the art of the experience makes both these communtiites thrive because the community itself gets sustained by the very creation of art. In other words the more people who make websites the better  #ds106 and #indieweb communites act at helping people build websites.
 
 ## Community and Democracy as Curriculum
- Networks are based on voluntary association (otherwise, the forming/breaking of connections doesn't mean anything).(Downes, 2018).
-## Physical and Digital Sociotechnincal Solutions
+ Networks are based on voluntary association (otherwise, the forming/breaking of connections doesn't mean anything).(Downes, 2018). In these communities there are both voluntary and mandatory associations.In #DS106, there are the university students, thier instructors and all the support, systems and barriers that come with formal learning environmnets. Yet there is also a strong community of open participants that never really stop #ds106ing.
+
+ 
+ 
+## Human Sociotechnincal Solutions
+No formal structures exist. However, many of the founders and early members worked on numerous projects and on w3c community and working groups together and have helped steer the project over the years.
+
+Both show, not tell communities, both rely on websites and feeds
+
+Distributed nature of knowledge
 
 ## Addressing Barriers
+Both communities introduce friction
+
+The #IndieWeb community remains a 100% volunteer network. The community, like much of the tech world, trends white and male but photographic records do show a long history of multi-generational learning.
+
+
 ## Holistic Technologies
 
 # Conclusion
