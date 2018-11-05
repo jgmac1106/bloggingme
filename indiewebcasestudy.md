@@ -29,7 +29,6 @@ While there is debate to the etymology of the term of "eating your own dog food"
  
 This driving principle influences much of the early web community. In fact in the community detailed how they were not planning for the masses and sais they ...anti-pattern
 
-
 >This is why I think it is exciting that the IndieWeb inherently follows this method. Work small, demo, integrate into the whole what works, and you get this emergent structure out of that that’s resilient, with things evolving at the edges out of people exploring new projects. (Case, 2014).
 
 There are 3726 mentions of community minus WordPress and Mozilla. 4027 mentions of community when you include allies. 311 mentions of diversity, 113 results for inclusion,399 mentions of conduct when you remove wiki edits #IndieWeb
@@ -55,6 +54,6 @@ Something to be said about people turning to the IndieWeb when dissatisfied with
 ## Content Creation
 ## Knowledge Brokering
 
-There are 785 mentions of "my first" 381 mentions of "don't know how" and 1682 mention of "learn" 501 mentions of "itches" 515 for "itch" (minus edited to remove wiki edits) 439 results for goals(also not accounting for wiki edits) in #IndieWeb chat logs
+There are 785 mentions of "my first" 381 mentions of "don't know how" and 1682 mention of "learn" 501 mentions of "itches" 515 for "itch" (minus edited to remove wiki edits) 439 results for goals (also not accounting for wiki edits) in #IndieWeb chat logs
 
 
