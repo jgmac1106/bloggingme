@@ -32,6 +32,10 @@ This driving principle influences much of the early web community. In fact in th
 
 >This is why I think it is exciting that the IndieWeb inherently follows this method. Work small, demo, integrate into the whole what works, and you get this emergent structure out of that that’s resilient, with things evolving at the edges out of people exploring new projects. (Case, 2014).
 
+There are 3726 mentions of community minus WordPress and Mozilla. 4027 mentions of community when you include allies. 311 mentions of diversity, 113 results for inclusion,399 mentions of conduct when you remove wiki edits #IndieWeb
+
+Post closing first HomeBrew Website Club: https://chat.indieweb.org/2013-11-21/1385006350000000
+
 ### Membership and Barriers
 
 While not "allowing the best story to win" does provide for grater inclusion of voices early on #IndieWeb had a strict requirement that you had to have a domain or website to attend an event. 
@@ -45,6 +49,12 @@ Early IndieWeb events had formal requirements that participants had to be creato
 Something to be said about people turning to the IndieWeb when dissatisfied with other movements. IndieWebCamp started after disatisfaction with W3c,. A post by Jeena and Tents: https://jeena.net/indieweb
 >  Sadly they took a wrong turn so I had to jump of and find something else which would get me in the direction I wanted, which is owning the data I post to the internet. I am trying to archive it not because it is easy, but because it is hard.
 
+112 results for "first hwc -your -Wednesday -floor -upload -edited", 61 results for "first iwc -your -floor -upload -edited" 5618 results for first "indiewebcamp -your - -upload -edited" 110 results for "first homebrew club -your -floor -upload -edited" all signs of importance of community
+
 ### Leadership and Barriers
 ## Content Creation
 ## Knowledge Brokering
+
+There are 785 mentions of "my first" 381 mentions of "don't know how" and 1682 mention of "learn" 501 mentions of "itches" 515 for "itch" (minus edited to remove wiki edits) 439 results for goals(also not accounting for wiki edits) in #IndieWeb chat logs
+
+
