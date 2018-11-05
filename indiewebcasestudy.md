@@ -19,15 +19,18 @@ IndieWeb has grown significantly in the intervening years. Between 2011 and 2018
 
 Overall having your own place on the web became the rallying cry of the IndieWeb. As one member notes, "Have a home, express myself, and internet citizenship" (Slatkin, 2012).The IndieWeb wiki list your content is yours, you are better connected and you are in control as the main beneifts of turning to the people-focused alternative to the "corporate web". All of the socio technical systems that have emerged in the community support this goal. This means the tools and and learning spaces to enable everyone'e websites to talk together. 
 
-The idea of showing before talking became a central organizing tenant of IndieWebCamp. In fact the first principle of 
+This committment to owning your data and contrllin how you publish on the web drives the IndieWeb commmunity. The concept of owndership is captured in the three values listed on the wiki homepage and in the principles of the group.As one participants notes: 
+>> Now I’m not a Web Developer, but I think I’d like to try my hand at it. I don’t need to centralize all of my data but I would like an online presence that I control. Something that I could constantly work on. Something that’s never finished. Much like the web itself.
+
+The building your own space also coonnects to the shared value of "show don't tell." The idea of showing before talking became a central organizing tenant of IndieWebCamp. In fact the first principle suggested by the community revolved around self dogfooding: 
+>Eat your own dogfood. Whatever you build should be for yourself. If you aren't using it, why should anybody else? More importantly, build the indieweb around your needs. Others can do likewise. (Morris, 2012).
+
+While there is debate to the etymology of the term of "eating your own dog food" the phrase grew in popularity in the tech world in when in 19988 a manageger at Microsoft sent an email titled "Eating your Own Dogfood" that described using the products before you build them.
+ 
+This driving principle influences much of the early web community. In fact in the community detailed how they were not planning for the masses and sais they ...anti-pattern
+
 
 >This is why I think it is exciting that the IndieWeb inherently follows this method. Work small, demo, integrate into the whole what works, and you get this emergent structure out of that that’s resilient, with things evolving at the edges out of people exploring new projects. (Case, 2014).
-
-> Now I’m not a Web Developer, but I think I’d like to try my hand at it. I don’t need to centralize all of my data but I would like an online presence that I control. Something that I could constantly work on. Something that’s never finished. Much like the web itself
-
-
-
-
 
 ### Membership and Barriers
 
@@ -41,7 +44,6 @@ Early IndieWeb events had formal requirements that participants had to be creato
 
 Something to be said about people turning to the IndieWeb when dissatisfied with other movements. IndieWebCamp started after disatisfaction with W3c,. A post by Jeena and Tents: https://jeena.net/indieweb
 >  Sadly they took a wrong turn so I had to jump of and find something else which would get me in the direction I wanted, which is owning the data I post to the internet. I am trying to archive it not because it is easy, but because it is hard.
-
 
 ### Leadership and Barriers
 ## Content Creation
