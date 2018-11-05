@@ -13,7 +13,7 @@ The following year in 2011 the group worked to  organize the first IndieWeb Camp
 Amber Case explained why early on IndieWeb camp put such a focus on building from your own site first."The whole point is you implement something and you show it to the community. Whoever has the best story doesn't win, the best implementation wins"
 "You can't make the perfect spec. That is a Platonic ideal"After the event, a decision was made not to keep in touch via an email list, but instead to use the Web.  Çelik (2014) explained this choice, "You're not going to email your way into building a website. So we said we don't need it, we're not going to use email. We're going to use the web itself to build the web that we want."
 
-IndieWeb has grown significantly in the intervening years. Between 2011 and 2018, IndieWeb's community has held over 600 events in cities across North America, Europe, and other Western countries (“Events - IndieWeb,” 2018). In 2017, an member of IndieWeb's community named Ryan Barret identified over 2300 of the most active IndieWeb sites around the world (Barrett, 2017), and thousands of people have posted online to IndieWeb's wiki and chatrooms.
+IndieWeb has grown significantly in the intervening years. Between 2011 and 2018, IndieWeb's community has held over 600 events in cities across North America, Europe, and other Western countries (“Events - IndieWeb,” 2018). In 2017, an member of IndieWeb's community named Ryan Barret identified over 2300 of the most active IndieWeb sites around the world (Barrett, 2017), and thousands of people have posted online to IndieWeb's wiki and chatrooms. To date over one million Webmentions, a tool that allows IndieWeb sites talk together have been sent.
 
 ## Shared Goals as Community
 
@@ -37,15 +37,12 @@ In 2013-2014, IndieWeb received significant press coverage in Wired (Finley, 201
 
 Early IndieWeb events had formal requirements that participants had to be creators, "someone that actually creates on the web with your own website" (Çelik, 2014). Those requirements have been relaxed, but having a personal website remains a de facto requirement for most participation.
 
-"Number One thing you have to do is sign into the website. If you didn't have your own domain you could talk all you wanted to but you had to show atleast you are dedicated to the cuase of owning your own data." "This filtered out the didn't want to do the iota of work, these people are interested in talking but they don't implement.
+"Number One thing you have to do is sign into the website. If you didn't have your own domain you could talk all you wanted to but you had to show atleast you are dedicated to the cuase of owning your own data." "This filtered out the didn't want to do the iota of work, these people are interested in talking but they don't implement." (Case, 2014)
 
 Something to be said about people turning to the IndieWeb when dissatisfied with other movements. IndieWebCamp started after disatisfaction with W3c,. A post by Jeena and Tents: https://jeena.net/indieweb
 >  Sadly they took a wrong turn so I had to jump of and find something else which would get me in the direction I wanted, which is owning the data I post to the internet. I am trying to archive it not because it is easy, but because it is hard.
 
 
-
-
-No mailing lists, whomever talks the best shoiuld not win
 ### Leadership and Barriers
 ## Content Creation
 ## Knowledge Brokering
