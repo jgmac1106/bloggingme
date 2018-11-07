@@ -4,9 +4,9 @@ IndieWeb was founded in 2011 and describes itself as “a people-focused alterna
 
 ## History
 IndieWeb was conceived after  co-founders Aaron Parecki and Tantek Çelik attended the 2010 Federated Social Web Summit.
-The two connected with Amber Case and Crystal Beasley to continue in spirit and goals of the conference, but using a different approach. According to Amber Case, the "2010 Federated web summit too much talk not enough build." 
+The two connected with Amber Case and Crystal Beasley to continue in spirit and goals of the conference, but using a different approach. According to Amber Case, the "2010 Federated web summit too much talk not enough build."
 
-The group wanted a more production based approach  "Let's write this spec, and start this mailing list, and what about this idea," Case continued in a criticism of w3c efforts to around the social web. Çelik has noted that most participants at the summit were focused on “what could be possible [in the future]” rather than “what was possible [now]” (Çelik, 2014). 
+The group wanted a more production based approach  "Let's write this spec, and start this mailing list, and what about this idea," Case continued in a criticism of w3c efforts to around the social web. Çelik has noted that most participants at the summit were focused on “what could be possible [in the future]” rather than “what was possible [now]” (Çelik, 2014).
 
 The following year in 2011 the group worked to  organize the first IndieWeb Camp event in Portland, Oregon.  The event was focused on discussing and building tools to own one's own data on a personal website "rather than posting content on many third-party silos of data" (“IndieWebCamp,” 2011). The instructional design followed a barcamp model, the protgenesis of EdCamps. Tantek Çelik also helped to launch BarCamps.
 
@@ -17,26 +17,33 @@ IndieWeb has grown significantly in the intervening years. Between 2011 and 2018
 
 ## Shared Goals as Community
 
-Overall having your own place on the web became the rallying cry of the IndieWeb. As one member notes, "Have a home, express myself, and internet citizenship" (Slatkin, 2012).The IndieWeb wiki list your content is yours, you are better connected and you are in control as the main beneifts of turning to the people-focused alternative to the "corporate web". All of the socio technical systems that have emerged in the community support this goal. This means the tools and and learning spaces to enable everyone'e websites to talk together. 
+Overall having your own place on the web became the rallying cry of the IndieWeb. As one member notes, "Have a home, express myself, and internet citizenship" (Slatkin, 2012).The IndieWeb wiki list your content is yours, you are better connected and you are in control as the main beneifts of turning to the people-focused alternative to the "corporate web". All of the socio technical systems that have emerged in the community support this goal. This means the tools and and learning spaces to enable everyone'e websites to talk together.
 
-This committment to owning your data and contrllin how you publish on the web drives the IndieWeb commmunity. The concept of owndership is captured in the three values listed on the wiki homepage and in the principles of the group.As one participants notes: 
+This committment to owning your data and contrllin how you publish on the web drives the IndieWeb commmunity. The concept of owndership is captured in the three values listed on the wiki homepage and in the principles of the group.As one participants notes:
 >> Now I’m not a Web Developer, but I think I’d like to try my hand at it. I don’t need to centralize all of my data but I would like an online presence that I control. Something that I could constantly work on. Something that’s never finished. Much like the web itself.
 
-The building your own space also coonnects to the shared value of "show don't tell." The idea of showing before talking became a central organizing tenant of IndieWebCamp. In fact the first principle suggested by the community revolved around self dogfooding: 
+The building your own space also coonnects to the shared value of "show don't tell." The idea of showing before talking became a central organizing tenant of IndieWebCamp. In fact the first principle suggested by the community revolved around self dogfooding:
 >Eat your own dogfood. Whatever you build should be for yourself. If you aren't using it, why should anybody else? More importantly, build the indieweb around your needs. Others can do likewise. (Morris, 2012).
 
 While there is debate to the etymology of the term of "eating your own dog food" the phrase grew in popularity in the tech world in when in 1988 a manageger at Microsoft sent an email titled "Eating your Own Dogfood" that described using the products before you build them.
- 
+
 This driving principle influences much of the early web community. In fact in the community detailed how they were not planning for the masses and specifically noted they "were not designing for all." While this did create inequities and reinforce traditional barriers of access in technology it assumed a smaller platform for testing and developing technology.
 
 >This is why I think it is exciting that the IndieWeb inherently follows this method. Work small, demo, integrate into the whole what works, and you get this emergent structure out of that that’s resilient, with things evolving at the edges out of people exploring new projects. (Case, 2014).
 
 Overall community is essential in to IndieWeb and much of the energy originally pored into code by key organizers and founders now goes to to supporting the community. There are 3726 mentions of community minus WordPress and Mozilla. 4027 mentions of community when you include allies. 311 mentions of diversity, 113 results for inclusion,399 mentions of conduct when you remove wiki edits #IndieWeb. As co-founder Aaron Parecki notes:
+
 >"Community is a huge aspect. It is a big differentiator. We are all working on a shared goal but we are all doing it by having our wesbites talk together and work on the problem together."
+
+As well as IndieWeb's immediate community, its members value connections to friends and family who do not operate personal websites. IndieWeb sites are commonly configured to syndicate posts to popular platforms such as Twitter, and then copy retweets, likes, and other responses back to one's personal website.
+
+>[This] is about staying in touch with current friends now, rather than the potential of staying in touch with friends in the future. --https://indieweb.org/POSSE
+
+This highlights IndieWeb's committment to working with current real-world systems instead of imagining an idealized future.
 
 ### Membership and Barriers
 
-While not "allowing the best story to win" does provide for grater inclusion of voices early on #IndieWeb had a strict requirement that you had to have a domain or website to attend an event. 
+While not "allowing the best story to win" does provide for grater inclusion of voices early on #IndieWeb had a strict requirement that you had to have a domain or website to attend an event.
 
 Early IndieWeb events had formal requirements that participants had to be creators, "someone that actually creates on the web with your own website" (Çelik, 2014). Those requirements have been relaxed, but having a personal website remains a de facto requirement for most participation.
 
@@ -44,20 +51,25 @@ Early IndieWeb events had formal requirements that participants had to be creato
 
 After 2014, when Çelik attended an anniversary party of the Homebrew Computer Club, a hacker group attended by Steve Jobs and Bill Gates, he proposed adding a Homebrew Website Club. Since that time there have been hundreds of people onboarded to the comunity. In fact a search of IndieWeb chat records reveal 112 posts from people mentioning HWC and 5618 post for "first IndieWebCamp. This marked a shift in the organization to more open membership from the exclusionary role of focusing specifically on developers who could spin uop their own websites.
 
-The relaxation of the membership requirements also aligned with a large increase of press in  2013-2014,.IndieWeb received significant press coverage in Wired (Finley, 2013), Slate (Gillmor, 2014), and Gigaom (Ingram, 2014a, 2014b) and This Week in Google (Marx, Wermuller, Riley, 2014). This lead to an expansion of people  to the IndieWeb and there are now 5618 posts cataloged in the chat archive about "first indiewebcamp" (minus your). 
+The relaxation of the membership requirements also aligned with a large increase of press in  2013-2014,.IndieWeb received significant press coverage in Wired (Finley, 2013), Slate (Gillmor, 2014), and Gigaom (Ingram, 2014a, 2014b) and This Week in Google (Marx, Wermuller, Riley, 2014). This lead to an expansion of people  to the IndieWeb and there are now 5618 posts cataloged in the chat archive about "first indiewebcamp" (minus your).
 
-In 2018 the barrier to membership and events was lowered further with a goal of attracting more event organizers. At the 2018 NYC leaders meeting it was decided to add an entry level event of IndieWeb meetup for people who found the word "club" or "Homebrew Website Club" exclusionary based on assummed required work of recruiting members and having repeated events. 
+In 2018 the barrier to membership and events was lowered further with a goal of attracting more event organizers. At the 2018 NYC leaders meeting it was decided to add an entry level event of IndieWeb meetup for people who found the word "club" or "Homebrew Website Club" exclusionary based on assummed required work of recruiting members and having repeated events.
 
 Post closing first HomeBrew Website Club: https://chat.indieweb.org/2013-11-21/1385006350000000
 
 >  Sadly they took a wrong turn so I had to jump of and find something else which would get me in the direction I wanted, which is owning the data I post to the internet. I am trying to archive it not because it is easy, but because it is hard.
 
 ### Leadership and Barriers
-## Content Creation
+- JJ Thought: decision to change from 'leaders' to 'organizers' represents an effort to make the path to leadership more accessible.  Notably, it is intended that anyone can become a 'leader' and the terminology was offputting for some.
+https://indieweb.org/2018/NYC/Organizers
 
+## Content Creation
+- ? Two types of content creation:
+    1. Creating content posted to personal websites
+    2. Creating tools for supporting indieweb sites (e.g. technical standards, software, design guidelines)
+
+In both cases, making operates as a learning tool.
 
 ## Knowledge Brokering
 
 There are 785 mentions of "my first" 381 mentions of "don't know how" and 1682 mention of "learn" 501 mentions of "itches" 515 for "itch" (minus edited to remove wiki edits) 439 results for goals (also not accounting for wiki edits) in #IndieWeb chat logs
-
-
