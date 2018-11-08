@@ -32,6 +32,18 @@ There is a cost to these efforts, "There is a cost to all of this Maha's key not
 
 
 ## Holistic Technologies
+Participants at these sites have access to relatively holistic authoring tools, especially when compared to platform-based alternatives. Both DS106 and IndieWeb strive for a sense of individual ownership over not only the content of one's website but also the process of its creation. In practice, the web publishing tools used among participants have a range of prescriptiveness.  Novice web designers are likely to rely upon easy-to-use content management systems such as WordPress, which are more flexible than sites like Facebook and Twitter but nonetheless encourage standardized structures including chronologically based blogs and ready-made 'themes' for determining the appearance of sites. In contrast, highly skilled participants may build their own software or write their site's HTML from scratch, in which case they can control exercise greater control over their work process and decisions.
+
+- Range of prescriptiveness inversely proportionate to technical skill
+- In theory, entry points for different skill levels.  In reality, IndieWeb's struggles to reach gen 2+ demonstrate that entry is difficult at lower levels.
+- Successes for reaching novices have been through structured pedagogical relationships (IndieWeb mentors/ inviting friends to events.  DS106 as a MOOC)
+- Not everyone is going to write their own software or HTML from scratch, but these spaces provide an opportunity for learning how to use increasingly open-ended systems and to make informed decisions about the pros and cons of prescriptive tools
+
+
+
+
+
+
 
 # Conclusion
 ## Implications for the Classroom
