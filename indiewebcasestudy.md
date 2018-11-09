@@ -53,13 +53,28 @@ After 2014, when Çelik attended an anniversary party of the Homebrew Computer C
 
 The relaxation of the membership requirements also aligned with a large increase of press in  2013-2014,.IndieWeb received significant press coverage in Wired (Finley, 2013), Slate (Gillmor, 2014), and Gigaom (Ingram, 2014a, 2014b) and This Week in Google (Marx, Wermuller, Riley, 2014). This lead to an expansion of people  to the IndieWeb and there are now 5618 posts cataloged in the chat archive about "first indiewebcamp" (minus your).
 
+Still the large technical barriers existed that made much of the IndieWeb available to the masses. As noted this was by design. "Designing for the masses" is considered an anti-pattern of the IndieWeb, which are practices antithethical to the community. The wiki notes, 
+>Designing for "mass adoption" is one of the traps that many past federated/social web efforts fell into.
+
+>It's a form of distraction: instead of designing/building what's immediately useful to you, the creator, you end up ratholing on what "everyone" or "the average person" seemingly wants, https://indieweb.org/antipatterns
+
+This approach, while drastically increasing barriers to entry also protected the community of developers. There are two main developers and mantainers of all the IndieWeb WordPress themes and plug-ins. The focus on self-dogfooding versus building for the masses ensures tools get iterated and tested by the needs of the maker. 
+
+To this end the community has used a model that groups indieweb adopters into "generations" with gen1 developers getting further from everyday gen4 users as "Each Generation should be best at explaining IndieWeb to the next Generation. Each Generation should focus on filling in the gaps between one generation to the next" creating a staircase approach to knowledge dissemination. In fact as soon as you get to gen2 users suddenly technology must be done "With a wizard to help them cast the spells." In terms of gen4 users and the IndieWeb, "Introducing Gen4 to the IndieWeb is not yet reasonable at this time." 
+
+While the Generations page has not been seriously updated since 2014 the community has made strides to redefine loose membership as
+>"Be able to share and discuss and publish from your own website and ideally from your own domain name in a way that is not adversely controlled by another company" (Werdmuller & Downes, 2018). 
+
 In 2018 the barrier to membership and events was lowered further with a goal of attracting more event organizers. At the 2018 NYC leaders meeting it was decided to add an entry level event of IndieWeb meetup for people who found the word "club" or "Homebrew Website Club" exclusionary based on assummed required work of recruiting members and having repeated events.
 
-Post closing first HomeBrew Website Club: https://chat.indieweb.org/2013-11-21/1385006350000000
+Membership in the community was also signified by the use of microformats, a special kind of markup data usded in HTML. Microformats were first used in 2004 but were largely abandoned by large search engine companies which in turn influenced to the metadata used by those seeking favor with search algorithims. Many of the IndieWeb building blocks use microformats to communicate with each other.
 
->  Sadly they took a wrong turn so I had to jump of and find something else which would get me in the direction I wanted, which is owning the data I post to the internet. I am trying to archive it not because it is easy, but because it is hard.
+Many...
 
 ### Leadership and Barriers
+
+Given the already stated barriers of access inherent in the community the access to leadership aligns well to Gee's Affinity space model. To attend, what was called the "Leaders" meeting a person had to organize atleast two Homebrew Website Club events in the previous year. All Leadrs meetings were usually streamed, though not recorded, but doucmented on an etherpad.
+
 - JJ Thought: decision to change from 'leaders' to 'organizers' represents an effort to make the path to leadership more accessible.  Notably, it is intended that anyone can become a 'leader' and the terminology was offputting for some.
 https://indieweb.org/2018/NYC/Organizers
 
