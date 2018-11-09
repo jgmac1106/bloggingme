@@ -69,21 +69,26 @@ In 2018 the barrier to membership and events was lowered further with a goal of 
 
 Membership in the community was also signified by the use of microformats, a special kind of markup data usded in HTML. Microformats were first used in 2004 but were largely abandoned by large search engine companies which in turn influenced to the metadata used by those seeking favor with search algorithims. Many of the IndieWeb building blocks use microformats to communicate with each other.
 
-Many...
+While symbols hold communities together (Dewey) and often unite affinity spaces (Gee) they can also act as walls for potential members who may not understand or choose to adopt these sign systems. In terms of the IndieWeb community discussions around web standards historically reflected an argumentative discourse prevelant. The founders themselves cite the "RSS/Atom Wars" as a demise in the early blogospher (Case, 2014, Çelik, 2014).
+
+While recent efforts have been made to reduce "snark" on some of the pages of the wiki, the site does have a history of placing increased bias on different strategies that the community may find as "anti-pattern." See https://indieweb.org/bitcoin. for example where the crypto-c This form of discourse may not be inclusive to all participants and may represent a barrier to membership.
+
+While the majority of those who self indentify as IndieWeb use microformats to connect their website they do now use a membership gateway of "having your own website." However the community still uses the lens of "show and not tell" any technology for the social web that doesn't have two examples of people using the metadata stucture and two examples of something consuming the data is considered "talk." The IndieWeb community, through the use of microformats, has gotten closest to a social web from personal websites, and is one of the few technologies to pass theshow and not tell. 
+
+Overall microformats demonstrate the power of signs and symbols to sustain a community. In terms of socio-techincal system the use of microformats also acted as a barrier to membership. While still in compliance with web standrads microformats works on websites the same way as CSS, which controls the way pages look such as colors and fonts. This caused large technical difficulties for CMS platforms. A recent proposal (IndieWeb/Berlin, 2018) discussed using the property tag commonly used by RDFa, a different metadata type.
 
 ### Leadership and Barriers
 
-Given the already stated barriers of access inherent in the community the access to leadership aligns well to Gee's Affinity space model. To attend, what was called the "Leaders" meeting a person had to organize atleast two Homebrew Website Club events in the previous year. All Leadrs meetings were usually streamed, though not recorded, but doucmented on an etherpad.
+Given the already stated barriers of access inherent in the community,  the access to leadership still aligns well to Gee's Affinity space model. To attend, what was called the "Leaders" meeting a person had to organize atleast two Homebrew Website Club events in the previous year. All Leaders meetings were usually streamed, though not recorded, but doucmented on an etherpad. This etherpad is archived but a version is converted to a page on the wiki.
 
-- JJ Thought: decision to change from 'leaders' to 'organizers' represents an effort to make the path to leadership more accessible.  Notably, it is intended that anyone can become a 'leader' and the terminology was offputting for some.
-https://indieweb.org/2018/NYC/Organizers
+Efforts have been made to increase the number of organizers and to divesify leadership. Recently the decision was to change from 'leaders' to 'organizers' represents an effort to make the path to leadership more accessible.  Notably, it is intended that anyone can become a 'leader' and the terminology was offputting (private citation).
+
+With so many global events privledge, as in many facets of life,  also creates barriers to leadership. Many organizers have professional arrangements with employers or work remotely as digital nomads. While a remote feed is made available hours of household silence maybe impossible in housleholds with children (private citation). 
+
 
 ## Content Creation
-- ? Two types of content creation:
-    1. Creating content posted to personal websites
-    2. Creating tools for supporting indieweb sites (e.g. technical standards, software, design guidelines)
-
-In both cases, making operates as a learning tool.
+The content creation
+JJs thoughts....getting back to them...going to get Chinese
 
 ## Knowledge Brokering
 
