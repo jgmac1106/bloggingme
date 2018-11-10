@@ -15,13 +15,8 @@ Networks are based on voluntary association (otherwise, the forming/breaking of 
 
 ## Human Sociotechnincal Solutions
 
-Signs and Symbols systems.
-
-No formal structures exist. However, many of the founders and early members worked on numerous projects and on w3c community and working groups together and have helped steer the project over the years.
-
-Both show, not tell communities, both rely on websites and feeds
-
-Distributed nature of knowledge
+In both #ds106 and #IndieWeb signs and symbols serve both a technical purpose and as a signiier of memmbership. In #ds106 thi is the collection of hashatags in the community. For the #IndieWeb community this is the role of microformats. These strong symbolic connections act to reinforce.....
+...sna strength ties
 
 ## Addressing Barriers
 Both communities demand high levels of intensive knowledge from participants. This does take work and having the time and freedom to do this work does come with privledge. Many in the #ds106 community are educators and artist who are driven to live the writerly life often as models for their students. 
