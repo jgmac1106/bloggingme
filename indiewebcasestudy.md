@@ -33,9 +33,9 @@ In 2013-2014, IndieWeb received significant press coverage in Wired (Finley, 201
 
 Early IndieWeb events had formal requirements that participants had to be creators, "someone that actually creates on the web with your own website" (Çelik, 2014). Those requirements have been relaxed, but having a personal website remains a de facto requirement for most participation.
 
-"Number One thing you have to do is sign into the website. If you didn't have your own domain you could talk all you wanted to but you had to show atleast you are dedicated to the cuase of owning your own data." "This filtered out the didn't want to do the iota of work, these people are interested in talking but they don't implement.
+"Number One thing you have to do is sign into the website. If you didn't have your own domain you could talk all you wanted to but you had to show atleast you are dedicated to the cause of owning your own data." "This filtered out the didn't want to do the iota of work, these people are interested in talking but they don't implement.
 
-Something to be said about people turning to the IndieWeb when dissatisfied with other movements. IndieWebCamp started after disatisfaction with W3c,. A post by Jeena and Tents: https://jeena.net/indieweb
+Something to be said about people turning to the IndieWeb when dissatisfied with other movements. IndieWebCamp started after disatisfaction with W3C,. A post by Jeena and Tents: https://jeena.net/indieweb
 >  Sadly they took a wrong turn so I had to jump of and find something else which would get me in the direction I wanted, which is owning the data I post to the internet. I am trying to archive it not because it is easy, but because it is hard.
 
 
